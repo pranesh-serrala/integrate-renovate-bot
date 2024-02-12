@@ -3,5 +3,7 @@
   "extends": [
     "config:recommended",
     ":dependencyDashboard"
-  ]
+  ],
+  "automerge": false,
+  "platform": "github"
 }
