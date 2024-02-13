@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@angular/core": "^16.2.0"
+    "@angular/core": "^17.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.2.0"
